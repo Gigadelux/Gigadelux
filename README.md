@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Gigadelux, future Ceo
-- 👀 I’m interested in make apps that help democracy and people
-- 🌱 I’m currently learning Flutter and java
+- 👀 I’m interested in make ai-poweradeapps that help democracy and people
+- 🌱 I’m currently learning pytorch & Tensorflow
+- ⚗️ Developing the next system in... [Java, Flutter(dart), Python]
 - 📫 How to reach me: mirco.delux@gmail.com
 
 <!---
