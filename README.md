@@ -51,13 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gigadelux&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gigadelux&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🔗 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirco.delux@gmail.com)
