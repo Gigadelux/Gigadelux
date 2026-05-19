@@ -1,12 +1,11 @@
 # Hey, I'm Marco De Luca 👋
 
-> *CPO @ HexalityAI | Building AI-powered products for 2+ years | MSc CS & AI student | Researching LLM contamination 🔬*
+> *Building AI-powered products for 2+ years | MSc CS & AI student | Researching LLM contamination 🔬*
 
 ---
 
 ## 🧠 About Me
 
-- ⚡ **CPO @ HexalityAI** — building the next AI product
 - 🎓 **BSc Computer Engineering** @ Università della Calabria
 - 📚 **MSc CS & AI** student @ Sapienza (in progress)
 - 🔬 Thesis: *Study and evaluation of data contamination in Large Language Models*
@@ -19,7 +18,6 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🤖 **HexalityAI** | Current venture — AI-powered product (stealth) | Python, AI |
 | 🧠 **MySquare AI** | People-matching platform via LLM embeddings & vector search | FastAPI, Weaviate, Gemini, Firebase |
 | 🎮 **EldenSync** | AI-powered Discord bot for gaming groups (310K+ games) | LLaMA 3.3 70B, Steam API, IGDB |
 | 😴 **WheelsWakeAI** | Drowsiness detection Android app with real-time face recognition | TensorFlow, Kotlin |
