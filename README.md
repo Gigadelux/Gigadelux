@@ -1,15 +1,15 @@
 # Hey, I'm Marco De Luca 👋
-
-> *Building AI-powered products for 2+ years | MSc CS & AI student | Researching LLM contamination 🔬*
+> *Building AI-native backends & agent infrastructure | MSc CS & AI student | Researching LLM contamination 🔬*
 
 ---
 
 ## 🧠 About Me
-
 - 🎓 **BSc Computer Engineering** @ Università della Calabria
-- 📚 **MSc CS & AI** student @ Sapienza (in progress)
-- 🔬 Thesis: *Study and evaluation of data contamination in Large Language Models*
-- 🌍 Passionate about AI that helps people and strengthens democracy
+- 📚 **MSc CS & AI** student @ Sapienza University of Rome (in progress)
+- 🔬 Thesis: *Study and evaluation of data contamination in Large Language Models* — Min-K%, Perplexity, and Semantic Similarity across Phi-2 and LLaMA, backed by Weaviate
+- 🚀 Founder of **Queryn**, an embedding interoperability startup (zero data retention by design)
+- 🧩 Backend & AI-first engineer — Python is home base, FastAPI is my default framework, Next.js/React/TS when a frontend is actually needed
+- 🌍 Passionate about AI that's genuinely useful, and obsessed with how neural nets, evolution, and biology all converge on the same optimization problems
 - 📫 Reach me at: **mirco.delux@gmail.com**
 
 ---
@@ -17,10 +17,10 @@
 ## 🚀 Projects
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| 🧠 **MySquare AI** | People-matching platform via LLM embeddings & vector search | FastAPI, Weaviate, Gemini, Firebase |
-| 🎮 **EldenSync** | AI-powered Discord bot for gaming groups (310K+ games) | LLaMA 3.3 70B, Steam API, IGDB |
-| 😴 **WheelsWakeAI** | Drowsiness detection Android app with real-time face recognition | TensorFlow, Kotlin |
+|---|---|---|
+| 🧠 **[Queryn](https://github.com/Gigadelux/Queryn)** | Embedding interoperability layer — MLP adapters mapping between embedding spaces (300→4000 dims), hybrid BM25 + pgvector search, built for zero data retention | FastAPI, Python, pgvector, PyTorch, Polars, Docker, Oracle Cloud (ARM) |
+| 🛡️ **[havel.ai API](https://github.com/Gigadelux/havel.ai-API)** | Firewall-for-AI: real-time detection of prompt injections, PII leaks, and unsafe LLM behavior via regex + vector similarity + LLM semantic scoring | FastAPI, Supabase, Clerk.dev, E5 embeddings, LangChain-compatible |
+| 🧪 **[SCP Mad Scientist Agent](https://github.com/Gigadelux/SCPMadScientist)** | Conversational agent that roleplays an SCP Foundation scientist — hybrid RAG retrieval, dual-persona experiment simulation, entity location plotting | FastAPI, LangChain, PostgreSQL + pgvector, bm25s, MCP, Streamlit |
 
 ---
 
@@ -28,29 +28,29 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### AI & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### Backend & AI/ML
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### Backend & Databases
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C4B4?style=for-the-badge&logoColor=white)
+### Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-00C4B4?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### Mobile & Tools
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### Frontend & Tools
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🔗 Connect with me
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirco.delux@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-de-luca-b20385235)
 
